@@ -1,0 +1,25 @@
+
+
+.home__section__left-box{
+  max-width: 678px;
+  width: 100%;
+}
+
+.home__section__right-box{
+  max-width: 700px;
+  width: 100%;
+}
+
+.home__title{
+  color: #211F54;
+  font-size: 68px;
+  font-weight: 700;
+  line-height: 73.984px;
+}
+
+.home__text{
+  color: #6E7191;
+  font-size: 21px;
+  font-weight: 400;
+  line-height: 30.006px;
+}

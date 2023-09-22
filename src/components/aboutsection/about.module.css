@@ -1,0 +1,47 @@
+.aboutTitle{
+  color: #211F54;
+  text-align: center;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 57.984px;
+  margin-bottom: 21px;
+}
+
+.aboutTextBox{
+  display: flex;
+  align-items: center;
+  flex-direction: column;  
+}
+
+.aboutText {
+  color: #6E7191;
+  text-align: center;
+  font-size: 21px;
+  font-weight: 400;
+  line-height: 30.006px;
+  max-width: 648px;
+  margin-bottom: 58px;
+}
+.about__list{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  column-gap: 40px;
+}
+
+.aboutBtnBox{
+  display: flex;
+  align-items: center;
+  gap: 28px;
+  justify-content: center;
+}
+
+.aboutItem{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.aboutCardImgBox{
+  max-width: 240px;
+  width: 100%;
+}
